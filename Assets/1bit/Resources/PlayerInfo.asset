@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe258ebb35804f3b9189d25d9d294a97, type: 3}
+  m_Name: PlayerInfo
+  m_EditorClassIdentifier: 
+  _speedPlayer: 0
+  _jubForsePlayer: 0
+  _helthPlayer: 0
+  _speedEnemy: 0
+  _jumpPlayerEnemy: 0
+  _healthEnemy: 0
